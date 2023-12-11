@@ -1,0 +1,11 @@
+# telegram
+API_ID = 11111 # some number
+API_HASH = '001122aaff'  # hexadedimal string
+CHANNEL_ID = 0  # channel to monitor
+
+# xtm
+USER_ID = ""  # account number string
+USER_PASSWORD = ""
+HOST = "xapi.xtb.com"
+# PORT = 5112  # prod
+PORT = 5124  # demo

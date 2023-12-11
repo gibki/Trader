@@ -1,0 +1,18 @@
+[ ] Telegram konto
+    Login
+    Kanał
+[ ] Server
+    [ ] Lokalny program, ~alternatywny klient do telegrama
+    [ ] Dolaczamy do grupy
+    [ ] Parser wiadomosci
+        [ ] Baza danych? Odsiac gowno, timestamp kiedy ostatnio dzialalismy itd.
+        [ ] Prosty parser do 
+            CHFJPY BUY @ 164.83 / 164.88
+
+            TP: 165.03 (scalper) 
+            TP: 165.33 (intraday) 
+            TP: 165.83 (swing)
+            SL: 164.23
+
+            🟢 Uzywaj MM  2-3% 
+

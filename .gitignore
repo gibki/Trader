@@ -1,1 +1,5 @@
 venv/
+.my.telegram.org
+*Trader.session
+config.py
+orders.json
